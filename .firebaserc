@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "telegrambot-bbfbd",
+    "default": "telegrambot-bbfbd"
+  }
+}
